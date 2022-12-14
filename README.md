@@ -2,7 +2,7 @@
 - 👀 I’m interested in modern web frameworks, functional programing
 - 🌱 I’m currently learning vuejs, solana blockchain and elixir
 - 💞️ I’m looking to collaborate on open source projects or anyother interesting project
-- 📫 How to reach me ..
+- 📫 How to reach me .. Twitter
 
 <!---
 olutunmie/olutunmie is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
